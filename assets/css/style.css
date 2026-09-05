@@ -64,9 +64,14 @@ a {
 }
 
 .nav-brand {
-  font-weight: 600;
-  font-size: 0.95rem;
   color: var(--text-primary);
+}
+
+.logo {
+  font-weight: 800;
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
 }
 
 .nav-links {
